@@ -2,7 +2,7 @@ import React, { Fragment } from "react";
 import { Link } from "react-router-dom";
 function Header() {
   return (
-    <>
+    <Fragment>
       <nav
         className="navbar navbar-expand-lg  text-white navbar-custom navbar-dark "
         aria-label="Offcanvas navbar large"
@@ -126,7 +126,7 @@ function Header() {
           </div>
         </div>
       </nav>
-    </>
+    </Fragment>
   );
 }
 
