@@ -1,0 +1,275 @@
+.card {
+    background-color: #1a1a2e;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+  }
+  .card-title {
+      color: white;
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+      opacity: 0.8;
+  }
+  
+  
+  .form-select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-color: #fff; 
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='white' class='bi bi-caret-down-fill' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14 2.451 5.658C2.031 5.206 2.295 4.5 2.904 4.5h10.192c.609 0 .873.707.453 1.158l-4.796 5.482a.625.625 0 0 1-.906 0z'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    background-size: 12px;
+    padding-right: 40px; 
+  }
+  
+  
+  
+  
+  
+  .change {
+    font-size: 1rem;
+  }
+  .horiziontal-line{
+    color: #373b3e;
+  }
+  .btn-primary {
+    background-color: var(--primary-color);
+    border: none;
+  }
+  .btn-outline-primary {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+  }
+  .crypto-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 0.5rem;
+    border-radius: 50px !important;
+  }
+  
+  .table-data{
+    margin-top: -8rem;
+  }
+  .table {
+    color: #ffffff;
+  }
+  .table td, .table th {
+    border: none;
+    padding: 0.5rem;
+  }
+  
+  .user-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+  }
+  .transfer-card {
+    background-color: #2a2a3e;
+  }
+  .progress-label span {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+  
+  .navbar {
+    background-color: #1a1a2e;
+    padding: 0.5rem 1rem;
+  }
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  .offcanvas.show:not(.hiding), .offcanvas.showing {
+    transform: none;
+    background-color: #1A1A2E;
+    width: 75%;
+  }
+  nav-link {
+    color: #a0a0a0 !important;
+    margin-right: 1rem;
+    font-size: 18px;
+  }
+  .card {
+    background-color: #1a1a2e;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+  }
+  
+  .big-number {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  .change {
+    font-size: 0.8rem;
+  }
+  .positive {
+    color: #4caf50;
+  }
+  .negative {
+    color: #f44336;
+  }
+  .btn-primary {
+    background-color: var(--primary-color);
+    border: none;
+  }
+  .btn-outline-primary {
+    border-color: var(--primary-color);
+    color: var(--primary-color);
+  }
+  .crypto-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 0.5rem;
+    border-radius: 50px !important;
+  }
+  .table {
+    color: #ffffff;
+  }
+  .table td, .table th {
+    border: none;
+    padding: 0.5rem;
+  }
+  .search-input {
+    background-color: #212529 !important;
+    border: 1px solid #212529 !important;
+    color: white !important;
+  }
+  .search-input::placeholder {
+    color: rgb(168, 158, 158);
+    opacity: 1; 
+  }
+  .crypto-text-link{
+    color: var(--bs-link-color);
+    text-decoration: none;
+    font-size: 16px;
+    font-family: system-ui;
+    font-weight: 800;
+  }
+  .user-avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    margin-top: 3px;
+  }
+  .transfer-card {
+    background-color: #2a2a3e;
+  }
+  .progress-label span {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+  
+  
+  
+  
+  .toggle-text{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    line-height: 35px;
+    text-align: center;
+  
+  }
+  .pagination {
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .form-select{
+    border: none;
+    font-size: 14px;
+  }
+  
+  .page-link {
+    display: block;
+    padding: 10px 15px;
+    color: #91ff00; /* Pagination link color */
+    background-color: #f8f9fa; /* Pagination background color */
+    border: 1px solid #dee2e6;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .page-link-left {
+    background-color: #e9ecef; /* Background color for the left arrow */
+  }
+  
+  .page-link-right {
+    background-color: #e9ecef; /* Background color for the right arrow */
+  }
+  
+  .page-item.active .page-link {
+    color: #fff;
+    background-color: var(--primary-color); /* Active page background color */
+    border-color: #1eff00;
+    border:  0px;
+  }
+  
+  .page-link:hover {
+    color: var(--primary-color);
+    background-color: #e2e6ea;
+  }
+  .page-item:first-child .page-link {
+    border-top-left-radius: var(--bs-pagination-border-radius);
+    border-bottom-left-radius: var(--bs-pagination-border-radius);
+    background-color: rgb(33 37 41) !important;
+    
+    border: 0px;
+  }
+  
+  .page-item:last-child .page-link {
+    border-top-left-radius: var(--bs-pagination-border-radius);
+    border-bottom-left-radius: var(--bs-pagination-border-radius);
+    background-color: rgb(33 37 41) !important;
+    
+    border: 0px;
+  }
+  
+  .shield-icon {
+    height: 100px;
+    width: 100px;
+    font-size: 94px;
+    color:   #2c28ff !important;  ;
+  
+    border-radius: 2px;
+    border: 2px ;
+    background-color: white;
+  }
+  
+  .scrollable-list {
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+  
+  
+  .scrollable-list {
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+  
+  /* Custom scrollbar styles */
+  .scrollable-list::-webkit-scrollbar {
+    width: 0px;
+  }
+  
+  .scrollable-list::-webkit-scrollbar-track {
+    background-color: black;
+  }
+  
+  .scrollable-list::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 10px;
+  }
+  
+  .scrollable-list::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+  }

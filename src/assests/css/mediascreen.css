@@ -1,0 +1,610 @@
+
+@media screen and (max-width: 1440px) {
+    .table-data {
+    margin-top: -17rem;
+  }
+  .prices-text{
+    font-size: 1rem;
+    font-family: "Inter";
+    font-weight: 600;
+  }
+  .rowsPerPage-text{
+    white-space: nowrap;
+  }
+  
+  .cryptocurreny-icon-table {
+    width: 50px !important;
+    height: 50px !important;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .crytpo-pluse-heading {
+    font-size: 2rem;
+  }
+  .cryptocurrency-text{
+    
+      padding-top: 0px !important;
+      padding-bottom: 0px !important;
+  
+  }
+  .cryptocurrency-text {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    font-size: 16px;
+  }
+  .shield-icon {
+    height: 100px;
+    width: 100px;
+    font-size: 94px;
+    color:   #2c28ff !important;  ;
+  
+    border-radius: 2px;
+    border: 2px ;
+    background-color: white;
+    margin-top: 1.4rem;
+  }
+  
+  }
+  
+  @media screen and (max-width: 1349px) {
+    .table-data {
+    margin-top: -17rem;
+  }
+  .prices-text{
+    font-size: 1rem;
+    font-family: "Inter";
+    font-weight: 600;
+  }
+  
+  .toogle-text-bg {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+  }
+  .cryptocurreny-icon-table {
+    width: 60px !important;
+    height: 60px !important;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .shield-icon {
+    height: 80px;
+    width: 80px;
+    font-size: 78px;
+    color:   #2c28ff !important;  ;
+  
+    border-radius: 2px;
+    border: 2px ;
+    margin-top: 24px;
+    background-color: white;
+  }
+  
+  .cryptocurrency-text {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    font-size: 16px;
+    margin-top: 26px;
+    margin-bottom: 17px;
+  }
+  .transfer-card{
+    padding: 10px;
+  }
+  
+  .crytpo-pluse-heading{
+    font-size: 1.7rem;
+    margin-top: 20px;  
+  }
+  .crypto-icon {
+    width: 43px !important;
+    height: 43px !important;
+    margin-right: 0.5rem;
+    border-radius: 50px !important;
+  }
+  }
+  @media (max-width: 1024px) {
+    
+    .search-group {
+      max-width: 600px;
+      padding: 15px;
+    }
+    .send-receive{
+      white-space: nowrap;
+    
+    }
+    .input-group-text{
+      display: none;
+    }
+    .buy-sell{
+      white-space: nowrap;
+    
+    }
+    .my-assets{
+      white-space: nowrap;
+    }
+    .search-input {
+      display: none;
+    }
+    .input-group-text{
+      border: none;
+      background: none;
+      color: white;
+    }
+        .scroll-container {
+          max-height: 75vh !important;
+          overflow-y: auto;
+      }  
+      .big-number {
+        font-size: 1.6rem;
+        font-weight: bold;
+    }
+    .change {
+      font-size: 12px;
+      font-weight: 200;
+      font-family: "Inter";
+  }
+  
+  .crytpo-pluse-heading {
+    font-size: 22px;
+    color: white;
+    font-family: "Inter";
+  
+  }
+  .transfer-card {
+    background-color: #2a2a3e;
+    padding: 0px;
+  
+  }
+  .cryptocurrency-text {
+        font-size: 12px;
+        font-family: "Inter";
+        padding-top: 0rem !important;
+        padding-bottom: 2.5rem !important;
+        margin-bottom: 8px;
+    }
+  .crypto-text-link {
+    color: var(--bs-link-color);
+    text-decoration: none;
+    font-size: 14px;
+    font-family: system-ui;
+    font-weight: 800;
+  }
+  
+  .shield-icon {
+    height: 73px;
+    width: 73px;
+    font-size: 70px;
+    color:   #2c28ff !important;  ;
+  
+    background:transparent;
+    border-radius: 2px;
+    border: 2px ;
+    margin-top: 28px;
+  }
+  .table-data {
+    margin-top: -17rem;
+  }
+ 
+  }
+  @media(max-width:991.9px){
+    .navbar-expand-lg .offcanvas .offcanvas-body {
+      display: flex;
+      flex-grow: 0;
+      padding: 0;
+      overflow-y: visible;
+      margin-top: 6px;
+      margin-left: 22px;
+  }
+  .table-data {
+    margin-top: 0rem;
+  }
+  .change {
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: "Inter";
+  }
+  .shield-icon {
+    height: 167px;
+    width: 174px;
+    font-size: 154px;
+    color:   #2c28ff !important;  ;
+    background: transparent;
+    border-radius: 2px;
+    border: 2px ;
+    margin-top: 23px;
+  }
+  .crytpo-pluse-heading {
+  font-size: 1rem;
+  }
+  }
+  @media screen and (max-width: 768px) {
+    
+    .navbar-expand-lg .offcanvas .offcanvas-body {
+      display: flex;
+      flex-grow: 0;
+      padding: 0;
+      overflow-y: visible;
+      margin-top: 6px;
+      margin-left: 22px;
+  }
+  .user-avatar {
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      margin-top: 16px;
+  }
+    .cryptocurreny-icon-table {
+      width: 20px !important;
+      height: 25px !important;
+      object-fit: cover;
+      border-radius: 50%;
+  }
+  .scroll-container {
+    max-height: 67vh !important;
+    overflow-y: auto;
+  }
+  .table-data {
+    margin-top: -16rem;
+  }
+  .muted-text{
+    display: none;
+  }
+  
+  .table-data {
+    margin-top: 0rem;
+  }
+  .change {
+    font-size: 1rem;
+    font-weight: 200;
+    font-family: "Inter";
+  }
+  .shield-icon {
+    
+    font-size: 122px;
+    color:   #2c28ff !important;  ;
+    /* background: transparent;
+    border-radius: 2px;
+    border: 2px; */
+    /* margin-top: 23px; */
+  
+  }
+  .crytpo-pluse-heading {
+  font-size: 2rem;
+  }
+  .cryptocurrency-text {
+    font-size: 11px;
+    font-family: "Inter";
+    padding-top: 1rem !important;
+    padding-bottom: 1.5rem !important;
+    margin-bottom: 8px;
+  }
+  
+  .progress-label {
+    margin-bottom: 9px;
+  }
+  .toogle-text-bg {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+  }
+  .top-mover-text{
+    font-size: 12px;
+  font-family: "inter";
+  font-weight: 200;
+  
+  }
+  .top-mover-text-muted{
+    font-size: 12px;
+  }
+  
+  .crypto-icon {
+    width: 30px !important;
+    height: 30px !important;
+    margin-right: 0.5rem;
+    border-radius: 50px !important;
+  }
+  .buy-sell {
+    background-color: #2c28ff;
+    color: white;
+    font-size: 14px;
+    display: none !important;
+  }
+  .send-receive{
+    display: none !important;
+  }
+  
+  
+  
+  }
+  @media (max-width: 480px) {
+    .slected-name{
+      display: none;
+     }
+     .rowsPerPage-text{
+      display: none;
+     }
+    .table-data {
+      margin-top: 1rem !important;
+  }
+  .text-muted{
+    white-space: nowrap;
+  }
+  .shield-icon {
+    height: 57px;
+    width: 57px;
+    font-size: 54px;
+    color:  #2c28ff !important;
+    border-radius: 2px;
+    border: 2px ;
+    background:transparent;
+  }
+  
+  /* .crytpo-pluse-heading {
+    font-size: 21px;
+    color: white;
+    font-family: "Inter";
+  }
+  .cryptocurrency-text {
+    font-size: 12px;
+    font-family: "Inter";
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  } */
+  /* .form-select {
+    display: block;
+    width: 90px;
+    padding: .375rem 2.25rem .375rem .75rem;
+    -moz-padding-start: calc(0.75rem - 3px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 32px;
+    margin-right: 10px;
+    color: white;
+    background-color: rgb(33 37 41) !important;
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da;
+    border-radius: .375rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    appearance: none;
+    border: none;
+  } */
+  
+  }
+  @media (max-width: 425px) {
+    .slected-name{
+      display: none;
+     }
+     .rowsPerPage-text{
+      display: none;
+     }
+    .table-data {
+      margin-top: 1rem !important;
+  }
+  .text-muted{
+    white-space: nowrap;
+  }
+  .shield-icon {
+    height: 97px;
+    width: 96px;
+    font-size: 88px;
+    color:   #2c28ff !important;  ;
+  
+    border-radius: 2px;
+    border: 2px ;
+    background:transparent;
+    margin-top: 1rem;
+  }
+  .crytpo-pluse-heading {
+    font-size: 26px;
+    color: white;
+    font-family: "Inter";
+  }
+  .cryptocurrency-text {
+    font-size: 14px;
+    font-family: "Inter";
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+  .buy-sell {
+    background-color: #2c28ff;
+    color: white;
+    font-size: 14px;
+    display: none !important;
+  }
+  .send-receive{
+    display: none;
+  }
+  /* .form-select {
+    display: block;
+    width: 90px;
+    padding: .375rem 2.25rem .375rem .75rem;
+    -moz-padding-start: calc(0.75rem - 3px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 32px;
+    margin-right: 10px;
+    color: white;
+    background-color: rgb(33 37 41) !important;
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da;
+    border-radius: .375rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    appearance: none;
+    border: none;
+  } */
+  
+  }
+  @media (max-width: 375px) {
+    .slected-name{
+     display: none;
+    }
+    .crytpo-pluse-heading {
+     font-size: 20px;
+     color: white;
+     font-family: "Inter";
+   }
+   .cryptocurrency-text {
+     font-size: 9px;
+     font-family: "Inter";
+     padding-top: 1rem !important;
+     padding-bottom: 1rem !important;
+   }
+    .selected-selction{
+     display: none;
+    }
+    .pagination {
+     display: flex;
+     list-style-type: none;
+     padding-left: 0;
+     display: none;
+   }
+    .rowsPerPage-text{
+     display: none;
+    }
+     .table-data {
+       margin-top: 1rem !important;
+   }
+   .text-muted{
+     white-space: nowrap;
+   }
+   .shield-icon {
+    
+     font-size: 74px;
+     color:   #2c28ff !important;  ;
+  
+     background:transparent;
+             margin-top: 42px;
+   }
+   .crypto-text-link {
+     color: var(--bs-link-color);
+     text-decoration: none;
+     font-size: 10px;
+     font-family: system-ui;
+     font-weight: 800;
+   }
+   .buy-sell {
+    background-color: #2c28ff;
+    color: white;
+    font-size: 14px;
+    display: none !important;
+  }
+  .send-receive{
+    display: none;
+  }
+  
+   
+   }
+  @media (max-width: 320px) {
+   .slected-name{
+    display: none;
+   }
+   .sell-all{
+   display: none;
+   }
+   
+   .user-avatar {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    margin-top: 4px;
+  }
+  .buy-sell {
+    background-color: #2c28ff;
+    color: white;
+    font-size: 14px;
+    display: none !important;
+  }
+  .send-receive{
+    display: none;
+  }
+   .crytpo-pluse-heading {
+    font-size: 20px;
+    color: white;
+    font-family: "Inter";
+  }
+  .cryptocurrency-text {
+    font-size: 9px;
+    font-family: "Inter";
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+   .selected-selction{
+    display: none;
+   }
+   .pagination {
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+    display: none;
+  }
+   .rowsPerPage-text{
+    display: none;
+   }
+    .table-data {
+      margin-top: 1rem !important;
+  }
+  .text-muted{
+    white-space: nowrap;
+  }
+      .shield-icon {
+        height: 60px;
+        width: 60px;
+        font-size: 69px;
+        /* color: #2c28ff !important; */
+        border-radius: 2px;
+        border: 2px;
+        background: transparent;
+        margin-top: 60px;
+        margin-right: 13px;
+    }
+
+  .crypto-text-link {
+    color: var(--bs-link-color);
+    text-decoration: none;
+    font-size: 10px;
+    font-family: system-ui;
+    font-weight: 800;
+  }
+  
+  .big-number {
+    font-size: 16px;
+    font-weight: 800;
+    font-family: "Inter";
+  }
+  .change {
+    font-size: 8px;
+    font-weight: 600;
+    font-family: "Inter";
+  }
+  
+  
+  /* .form-select {
+    display: block;
+    width: 90px;
+    padding: .375rem 2.25rem .375rem .75rem;
+    -moz-padding-start: calc(0.75rem - 3px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 32px;
+    margin-right: 10px;
+    color: white;
+    background-color: rgb(33 37 41) !important;
+    background-repeat: no-repeat;
+    background-position: right .75rem center;
+    background-size: 16px 12px;
+    border: 1px solid #ced4da;
+    border-radius: .375rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    appearance: none;
+    border: none;
+  } */
+
+  }
+  
